@@ -67,7 +67,7 @@ For all input files, lines beginning with a hash (#)
 ### Dependencies 
 
 Python packages:
-  * NetworkX
+  * NetworkX (Yusuf's Note: Netwrokx version that works <= 1.11)
 
 Older releases of this code are valid in both Python 2 and Python 3. With this
 current version, Python 2 compatability is not guaranteed, and some unit tests
